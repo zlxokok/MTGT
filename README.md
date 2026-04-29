@@ -33,10 +33,10 @@ Clone the repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/zlxokok/MTGT.git
+```
 
 
-
-### Citation
+#### Citation
 
 If you use MTGT in your research, please cite:
 
