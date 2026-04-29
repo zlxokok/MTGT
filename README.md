@@ -35,11 +35,15 @@ Clone the repository to your local machine using Git:
 git clone https://github.com/zlxokok/MTGT.git
 ```
 
+#### Contact
+
+For questions or collaborations:zhaoxuanlong254@gmail.com
+
 
 #### Citation
 
 If you use MTGT in your research, please cite:
-
+```
 @article{zhao2026mtgt,
   title={MTGT: Multiscale Text Feature-Guided Transformer in medical image segmentation},
   author={Zhao, L. and Wang, T. and Zhang, X. and others},
@@ -48,3 +52,4 @@ If you use MTGT in your research, please cite:
   pages={105846},
   year={2026}
 }
+```
